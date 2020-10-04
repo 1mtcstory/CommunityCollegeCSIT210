@@ -1,0 +1,21 @@
+
+1 - When storing data, there are many different data types to choose. What type would be best to store:
+    a - byte
+    b - float
+    c - double
+
+2 - net = ((gross – expenses) / 2) % 4) / 9;
+    Unclosed parenthesis
+
+3 - size = 8; size += size + 12; size = size * 9; size = size / 3;
+    size = 12
+
+4 - depth = 2.7; depth = 20 - depth * 4; depth = depth / 5;
+    depth = 3.44
+
+5 - length = 32; length *= 2+1; length *= length; length /= length;
+    depth = 1
+
+
+
+
